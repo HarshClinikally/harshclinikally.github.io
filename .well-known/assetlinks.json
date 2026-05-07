@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.harshclinikally.trench",
+      "sha256_cert_fingerprints": [
+        "07:FD:4E:1E:C4:65:EC:CC:B2:A1:29:5D:A8:FA:00:08:FD:52:D3:7D:55:A4:66:44:44:43:74:84:00:24:90:B5"
+      ]
+    }
+  }
+]
